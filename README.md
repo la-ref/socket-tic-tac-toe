@@ -11,6 +11,8 @@ Le serveur et deux clients se communiquent mutuellement les coups joués + respe
 
 En utilisant les forks il y a la possibilité de faire plusieurs parties.
 
+<img src="./img/2.JPG">
+
 <img src="./img/1.JPG">
 
 ## **Les prérequis 📍**
