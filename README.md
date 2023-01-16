@@ -13,7 +13,7 @@ En utilisant les forks il y a la possibilité de faire plusieurs parties.
 
 <img src="./img/2.JPG">
 
-<img src="./img/1.JPG">
+<img src="./img/1.png">
 
 ## **Les prérequis 📍**
 
